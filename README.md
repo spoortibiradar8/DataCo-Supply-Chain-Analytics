@@ -212,8 +212,8 @@ Open `powerbi/DataCo_Supply_Chain_Analysis.pbix` in Power BI Desktop (current ve
 - The Consumer segment contributes about 52 percent of profit.
 - More than half of orders (54.82 percent) are flagged as late deliveries, which is the largest operational concern in the data.
 - Only 3 of 118 products lose money overall, and the combined loss is small (1,390.63). The more significant leakage is the 37.49 percent of orders that contain at least one loss-making line.
-- Discount-band findings: [TO BE CONFIRMED: take values from the Profit Margin by Discount Band chart after slicers are cleared].
-- Shipping-mode late rates: [TO BE CONFIRMED: take values from the Late Delivery % by Shipping Mode chart].
+- Discount-band findings: profit margin falls from 11.7% (Low, below 10%) to 10.2% (Medium, 10% to below 20%) to 9.0% (High, 20% and above).
+- Shipping-mode late rates: First Class 95.3%, Second Class 76.7%, Same Day 46.1%, Standard Class 38.1%.
 
 ## Business Recommendations
 
