@@ -264,5 +264,5 @@ dataco-profit-leakage-analysis/
 ## Author and Contact
 
 - Author: Spoorti
-- GitHub: [github.com/spoorti08b-lgtm](https://github.com/spoorti08b-lgtm)
+- GitHub: [github.com/spoortibiradar8](https://github.com/spoortibiradar8)
 - Category: Data Analytics, Business Intelligence, Supply Chain Analytics
