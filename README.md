@@ -48,7 +48,7 @@ Key business questions addressed:
 - Distinct products: 118
 - Order date range: 1 January 2015 to 31 January 2018
 
-The raw CSV file is excluded from this repository because of its size. The original dataset can be downloaded from the public source link above.
+The original dataset underwent data cleaning and preprocessing as part of this analysis. Due to GitHub's file size limitations, a reduced version containing fewer records was uploaded to the repository. The complete dataset is available from the original Kaggle source.
 
 ## Data Preparation
 
