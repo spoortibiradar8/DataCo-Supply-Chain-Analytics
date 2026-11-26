@@ -232,7 +232,7 @@ Open `powerbi/DataCo_Supply_Chain_Analysis.pbix` in Power BI Desktop (current ve
 ## Repository Structure
 
 ```text
-dataco-profit-leakage-analysis/
+DataCo-Supply-Chain-Analytics/
 |-- README.md
 |-- datasets/
 |   `-- raw/
@@ -265,4 +265,6 @@ dataco-profit-leakage-analysis/
 
 - Author: Spoorti
 - GitHub: [github.com/spoortibiradar8](https://github.com/spoortibiradar8)
+- Repository: [DataCo-Supply-Chain-Analytics](https://github.com/spoortibiradar8/DataCo-Supply-Chain-Analytics)
 - Category: Data Analytics, Business Intelligence, Supply Chain Analytics
+
